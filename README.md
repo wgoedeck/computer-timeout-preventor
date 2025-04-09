@@ -40,6 +40,6 @@ After a delay of a random period from seven to fourteen minutes, the loop is rep
 	delay(delayTime);
 
 ### Addendum
-The cable’s connection to the circuit board is suspect to wear, causing the connection jack to separate from the board, so additional strain releaf is warranted, such has stabilizing the cable to a breadboard that the unit is mounted on, or better yet, the device put into a small plastic chassis with the output cable clamped down upon. 
+The cable’s connection to the circuit board is suspect to wear, causing the connection jack to separate from the board, so additional strain relief is warranted, such has stabilizing the cable to a breadboard that the unit is mounted on, or better yet, the device put into a small plastic chassis with the output cable clamped down upon. 
 
 One can add an external USB hub to the computer to add more USB ports in case insufficient USB ports are available to use this device. 
