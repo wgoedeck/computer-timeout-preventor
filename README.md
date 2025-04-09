@@ -1,4 +1,4 @@
-# computer-timeout-preventor
+# computer-timeout-preventer
 Ardiuno project that plugs into a computer USB port to prevent timeouts by generating random keystrokes at random times.
 
 ### Description of program <a class="anchor" id="description"></a>
