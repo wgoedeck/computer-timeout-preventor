@@ -1,5 +1,5 @@
 # computer-timeout-preventor
-Ardiuno project that plugs into USG port to prevent computer timeouts by generating random keystrokes at random times.
+Ardiuno project that plugs into a computer USG port to prevent timeouts by generating random keystrokes at random times.
 
 ### Description of program <a class="anchor" id="description"></a>
 
